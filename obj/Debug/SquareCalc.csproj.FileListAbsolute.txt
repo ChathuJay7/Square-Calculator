@@ -1,0 +1,11 @@
+C:\Users\DT\source\repos\SquareCalc\bin\Debug\SquareCalc.exe.config
+C:\Users\DT\source\repos\SquareCalc\bin\Debug\SquareCalc.exe
+C:\Users\DT\source\repos\SquareCalc\bin\Debug\SquareCalc.pdb
+C:\Users\DT\source\repos\SquareCalc\obj\Debug\SquareCalc.csproj.AssemblyReference.cache
+C:\Users\DT\source\repos\SquareCalc\obj\Debug\SquareCalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\DT\source\repos\SquareCalc\obj\Debug\SquareCalc.Form1.resources
+C:\Users\DT\source\repos\SquareCalc\obj\Debug\SquareCalc.Properties.Resources.resources
+C:\Users\DT\source\repos\SquareCalc\obj\Debug\SquareCalc.csproj.GenerateResource.cache
+C:\Users\DT\source\repos\SquareCalc\obj\Debug\SquareCalc.csproj.CoreCompileInputs.cache
+C:\Users\DT\source\repos\SquareCalc\obj\Debug\SquareCalc.exe
+C:\Users\DT\source\repos\SquareCalc\obj\Debug\SquareCalc.pdb

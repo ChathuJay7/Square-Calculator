@@ -5,7 +5,7 @@ Square Calculator is a mini calculator using C#. Need to enter the lower limit, 
 ## Screen Shots
 
 <p align="center">
-    <img src="ReadMe/img1.png" width="600" align="center"><br>
-    <img src="ReadMe/img2.png" width="600" align="center"><br>
-    <img src="ReadMe/img3.png" width="600" align="center"><br>
+    <img src="ReadMe/img1.png" width="600" align="center"></br></br>
+    <img src="ReadMe/img2.png" width="600" align="center"></br></br>
+    <img src="ReadMe/img3.png" width="600" align="center"></br></br>
 </p>
